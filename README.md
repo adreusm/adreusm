@@ -1,13 +1,14 @@
 ## Hi there 👋
 ### About me
 - 👩‍💻 Fullstack Developer
-- 👨‍🎓 Student of Moscow State Univercity of Civil Engineering.
+- 👨‍🎓 Graduate of Moscow State Univercity of Civil Engineering.
 - 💻 Faculty of Information Systems and Technologies.
+
 ### Programming Languages
-- JavaScript / TypeScript
 - PHP
-- Python (Basics)
-- C/C++ (Basics)
+- Python
+- JavaScript / TypeScript
+
 ### Contacts
 - telegram: [@adreusm](https://t.me/adreusm)  
 - email: ausmanov706@gmail.com
